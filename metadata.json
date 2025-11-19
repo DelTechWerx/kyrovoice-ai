@@ -1,0 +1,7 @@
+{
+  "name": "KyroVoice AI",
+  "description": "An intelligent voicemail assistant that records, transcribes, and summarizes audio messages using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
